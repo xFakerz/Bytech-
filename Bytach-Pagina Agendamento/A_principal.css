@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.back1 {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 699px;
+    top: 155px;
+
+    background-color: #1FC4DA45;
+    border-radius: 15px;
+}
+
+.back1 h1 {
+    color: rgb(0, 63, 134);
+    font-size: xx-large;
+    position: absolute;
+    width: 600px;
+    height: 120px;
+    left: 255px;
+    top: 40px;
+}
+
+.back1 {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 699px;
+    top: 155px;
+
+    background-color: #1FC4DA45;
+    border-radius: 15px;
+}
+
+.img1 img {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 1px;
+    top: 1px;
+
+    border-radius: 10px;
+    opacity: 0.1;
+}
+
+.img2 img {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 1px;
+    top: 1px;
+
+    border-radius: 10px;
+    opacity: 0.2;
+    
+}
+
+.secret {
+    background-color: #1FC4DA45;
+    position: absolute;
+    width: 600px;
+    height: 567px;
+    left: 750px;
+    top: 290px;
+}
+
+.datalist input {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 140px;
+    top: 30px
+}
+
+.datalist p {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 275px;
+    top: 10px
+}
+
+.datalist2 input {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 140px;
+    top: 90px
+}
+
+.datalist2 p {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 275px;
+    top: 70px
+}
+
+
+
